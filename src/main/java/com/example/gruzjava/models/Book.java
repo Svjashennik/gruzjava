@@ -1,4 +1,4 @@
-package com.example.mylibraryapp.models;
+package com.example.gruzjava.models;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

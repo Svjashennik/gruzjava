@@ -1,7 +1,7 @@
-package com.example.mylibraryapp.controller;
+package com.example.gruzjava.controller;
 
-import com.example.mylibraryapp.service.BookService;
-import com.example.mylibraryapp.service.dto.BookDto;
+import com.example.gruzjava.service.BookService;
+import com.example.gruzjava.service.dto.BookDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

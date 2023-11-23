@@ -1,10 +1,10 @@
-package com.example.mylibraryapp.service.impl;
+package com.example.gruzjava.service.impl;
 
-import com.example.mylibraryapp.models.Book;
-import com.example.mylibraryapp.repository.BookRepository;
-import com.example.mylibraryapp.service.BookService;
-import com.example.mylibraryapp.service.convertor.BookMapper;
-import com.example.mylibraryapp.service.dto.BookDto;
+import com.example.gruzjava.models.Book;
+import com.example.gruzjava.repository.BookRepository;
+import com.example.gruzjava.service.BookService;
+import com.example.gruzjava.service.convertor.BookMapper;
+import com.example.gruzjava.service.dto.BookDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

@@ -1,10 +1,10 @@
-package com.example.mylibraryapp;
+package com.example.gruzjava;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MyLibraryAppApplicationTests {
+class GruzJavaAppApplicationTests {
 
 	@Test
 	void contextLoads() {

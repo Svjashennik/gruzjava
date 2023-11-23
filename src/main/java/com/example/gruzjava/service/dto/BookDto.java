@@ -1,4 +1,4 @@
-package com.example.mylibraryapp.service.dto;
+package com.example.gruzjava.service.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,7 +1,7 @@
-package com.example.mylibraryapp.service;
+package com.example.gruzjava.service;
 
 
-import com.example.mylibraryapp.service.dto.BookDto;
+import com.example.gruzjava.service.dto.BookDto;
 
 import java.util.List;
 
